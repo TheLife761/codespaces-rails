@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Nereuolo
+  email: Nereo2005@gmail.com
+
+two:
+  name: Cajoso
+  email: Canaza@gmail.com
